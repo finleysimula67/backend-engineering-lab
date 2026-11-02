@@ -56,7 +56,7 @@ Tested token generation and protected endpoint access using Postman.
 This is an educational prototype, not a production-ready authentication system.
 
 - Token generation currently accepts a username without password verification.
-- User persistence is not implemented.
+- User persistence is not implemented.  
 - Role-based authorization is not implemented.
 - Refresh-token handling is not implemented.
 
